@@ -1,7 +1,7 @@
 # AB Testing (AB Testi)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/celalakcelikk/hybrid_recommender_system/main/media/rs.png" alt="rs"/>
+  <img src="https://github.com/celalakcelikk/ab_testing/blob/main/media/ab-testing.png" alt="rs"/>
 <p>
 
 ## İş Problemi
@@ -16,7 +16,7 @@ bombabomba.com’un web site bilgilerini içeren bu veri setinde kullanıcılar�
 
 ## Veri Seti Değişkenleri
 
-* **Impression:** Reklam görüntüleme sayısı 
+* **Impression:** Reklam görüntüleme sayısı
 * **Click:** Tıklama. Görüntülenen reklama tıklanma sayısını belirtir.
 * **Purchase:** Satın alım. Tıklanan reklamlar sonrası satın alınan ürün sayısını belirtir.
 * **Earning:** Kazanç. Satın alınan ürünler sonrası elde edilen kazanç.
